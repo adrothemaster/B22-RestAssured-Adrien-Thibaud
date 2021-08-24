@@ -25,6 +25,7 @@ public class Homework_1 {
      * - And country_id is US
      * - And Country_name is United States of America
      * - And Region_id is
+     * a
      */
 
     @BeforeAll
