@@ -148,7 +148,7 @@ public class Homework_1 {
 
         List<String> actualCountries = response.path("items.country_name");
 
-        assertEquals(expectedCountries,actualCountries);
+        assertEquals(expectedCountries, actualCountries);
 
     }
 
